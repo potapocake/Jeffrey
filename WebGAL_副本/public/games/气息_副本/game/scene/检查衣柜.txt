@@ -1,0 +1,3 @@
+changeBg:bedroom'.png;
+:打开衣柜衣服还是整整齐齐挂在里面，下面堆着你懒得收拾的一小团衣服。 -fontSize=default;
+callScene:检查.txt

@@ -1,0 +1,3 @@
+changeBg:c.png;
+:真的不留下吗……？ -fontSize=default;
+choose:<好吧>:答应午餐.txt|<不了>:拒绝午餐4双be.txt;

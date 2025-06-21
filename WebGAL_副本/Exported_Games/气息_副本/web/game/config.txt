@@ -1,0 +1,8 @@
+Game_name:气息;
+Game_key:d021d78ef992c28;
+Title_img:yes.png;
+Title_bgm:forever.mp3;
+Textbox_theme:imss;
+Game_Logo:;
+Package_name:气息;
+Show_panic:false;

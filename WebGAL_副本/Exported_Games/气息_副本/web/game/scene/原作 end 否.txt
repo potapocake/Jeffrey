@@ -1,0 +1,8 @@
+郑？？？？&……*（&:“你要跑吗？” -audio - 2025-06-21T184508.153.wav -fontSize=default;
+intro:……被发现了，为您的|为您的安全着想我们接下来会进行强行传送。|请…&&^*(*$#$)(@!))|——&&T*&（*&%（&……|…………！！！！！|传送系统被破坏，请自行强制返回存档点。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+！！！:“骗子。” -audio - 2025-06-21T184236.952.wav -fontSize=default;
+……:“你不是说你不会走了吗？” - 2025-06-21T184318.995.wav -fontSize=default;
+intro:一直都在骗我…一直都在骗我…一直都在骗我…一直都在骗我…一直都在骗我…|下次遇见你我要把你直接捆死在床上，|让你只能看着我想着我一个人。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:none;
+。——:“只能看着我一个人。” -audio - 2025-06-21T184417.366.wav -fontSize=default;
+end;

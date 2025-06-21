@@ -1,0 +1,5 @@
+changeBg:op.png;
+choose:<然后他们下车，走向共同生活的地方>:选择场景文件;
+changeBg:x.png;
+:郑飞愣了愣，眼睛瞪大了点。 -fontSize=default;
+郑飞:“这样好像也不错。” -ElevenLabs_2025-02-05T20_03_46_郑飞_ivc_s78_sb100_se25_b_m2.mp3 -fontSize=default;

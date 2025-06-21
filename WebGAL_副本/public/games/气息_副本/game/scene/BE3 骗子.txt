@@ -1,0 +1,13 @@
+changeBg:IMG_5264.JPG;
+郑飞:“……” -fontSize=default;
+:郑飞的脸色拉了下来，捏着你的肩膀把你按在墙上。 -fontSize=default;
+郑飞:“那为什么拒绝我呢？” -audio (34).wav -fontSize=default;
+郑飞:“为什么耍我？” -audio (35).wav -fontSize=default;
+郑飞:“这句喜欢是假的对不对。” -audio (36).wav -fontSize=default;
+:你看着他的眼睛说不出话。 -fontSize=default;
+choose:<……>:选择场景文件|<不是的…>:选择场景文件;
+changeBg:none;
+:没有用了。 -fontSize=default;
+？？:“骗子。” -audio (37).wav -fontSize=default;
+intro:BE3 骗子 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

@@ -1,0 +1,4 @@
+changeBg:i.png;
+郑飞:“这样吗，那我还是不强留了。” -audio (4).wav -fontSize=default;
+:郑飞笑了笑，或者说是嘴角扯了扯，|他似乎有些坐立不安起来，大拇指搓着虎口没有讲话。 -fontSize=default;
+choose:<那么下次再约>:下一趴.txt|<我后悔了，我们去吃饭吧>:答应午餐.txt|<我先走了>:拒绝午餐3.txt;

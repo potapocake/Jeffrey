@@ -1,0 +1,3 @@
+changeBg:h.png;
+miniAvatar:dog.jpg;
+choose:<很喜欢>:玩偶很喜欢继续.txt|<很喜欢>:玩偶很喜欢继续.txt|<…不喜欢>:玩偶不喜欢2.txt;

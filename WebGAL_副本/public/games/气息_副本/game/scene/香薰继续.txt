@@ -1,0 +1,4 @@
+changeBg:k.png;
+:郑飞抱来了狗，聊完了近况打了针付了费就已经快中午了。|空气陷入诡异的沉默里，但郑飞没几秒就打破了。 -fontSize=default;
+郑飞:“一起去吃午餐吗？我下午没有安排。” -audio (3).wav -fontSize=default;
+choose:<好啊>:答应午餐.txt|<我下午还有事…>:拒绝午餐1.txt;

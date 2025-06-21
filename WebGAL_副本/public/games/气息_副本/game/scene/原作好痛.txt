@@ -1,0 +1,18 @@
+changeBg:d2025-03-26 00.15.31.png;
+:你给他看绳子在手腕上磨的红痕，他愣了愣，|手抚上你的脸有些探究地看你，你感觉到他的指尖在抖。 -fontSize=default;
+郑飞:“等我。” -audio (61).wav -fontSize=default;
+:他似乎去拿了什么，回来时带着一条皮质的束缚带。这个代替了粗糙的麻绳，|你觉得舒服了不少，但眼前这家伙一定夹带私货了不少奇怪的xp。 -fontSize=default;
+郑飞:“现在你坐上这辆列车了。”|他摩挲着束缚带的末端。 -audio (62).wav -fontSize=default;
+郑飞:“我可以给你你需要的一切，留下来好不好？” -audio (63).wav -fontSize=default;
+choose:<……>:选择场景文件;
+:你不说话，他似乎有些生气，|狠狠扯了一下你的手腕，你就这样不受控制地扑到他身前跪着。 -fontSize=default;
+:丢脸，屈辱，你的脸一下臊红了，但借不了力站不起来。|他蹲下来看你，掰过你的脸强迫你看着他。 -fontSize=default;
+郑飞:“{full}。你这样善良的人，也不愿意接受我吗？” -audio (64).wav -fontSize=default;
+choose:<你到底想干什么>:选择场景文件;
+郑飞:“我说了好多遍了。”|他视线向下扫，盯着你的嘴唇看，指腹摩挲着你的脖颈。 -audio (65).wav -fontSize=default;
+郑飞:“留下来。” -audio (66).wav -fontSize=default;
+:兽医常年握着手术刀的手指有些粗糙，薄薄的茧略过你颈侧的痒痒肉，|你发起抖来。这家伙真是疯了。 -fontSize=default;
+:你想着，有些恨恨地蹬他，却在他眼睛里看见了一点乞求的意味。|看来现在硬来是不行了，希望这家伙吃软不吃硬。你盯着他的脸看。 -fontSize=default;
+choose:<亲他>:原作想上.txt|<想上。>:选择场景文件|<靠他身上>:原作想上.txt;
+:喂。你晃晃脑袋，把这个过于危险的念头给赶走。还是用贴贴贿赂一下他吧。 -fontSize=default;
+changeScene:原作想上.txt

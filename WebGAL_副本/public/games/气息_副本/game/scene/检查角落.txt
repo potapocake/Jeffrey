@@ -1,0 +1,3 @@
+changeBg:bedroom'.png;
+:讲实话你有点怕针孔摄像头一样的东西，随手抱起一只小狗玩偶，|用检测器把插座都检查了一遍，似乎没什么问题。 -fontSize=default;
+callScene:检查.txt

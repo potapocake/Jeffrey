@@ -1,0 +1,3 @@
+changeBg:h.png;
+miniAvatar:dog.jpg;
+choose:<超软乎>:玩偶很喜欢继续.txt|<爱不释手呢>:玩偶很喜欢继续.txt|<绝对绝对很喜欢>:玩偶很喜欢继续.txt|“为什么撒谎呢”:玩偶很喜欢继续.txt;

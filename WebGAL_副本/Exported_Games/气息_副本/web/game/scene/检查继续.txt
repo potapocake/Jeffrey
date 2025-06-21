@@ -1,0 +1,11 @@
+changeBg:bedroom'.png;
+:看来家里没什么问题，大概是你太敏感了。 -fontSize=default;
+playEffect:phone.mp3 -volume=25;
+:【你的手机弹出一条消息】 -fontSize=default;
+changeBg:h.png;
+:哦，是的，ted给你发信息了。你随手把床头的小狗玩偶抱在怀里。|小狗玩偶很软乎，你抱在怀里躺床上回复ted的消息。 -fontSize=default;
+Ted:“小狗，喜欢吗？” -fontSize=default;
+miniAvatar:dog.jpg;
+:哦对，这个玩偶是ted买了寄给你的，|查到的寄出地址是一个本市郊外的废弃仓库， -fontSize=default;
+:你其实有点觉得奇怪，但想到也许是为了防止被查到填的假地址也就理解了。|你低头看了眼玩偶。 -fontSize=default;
+choose:<很喜欢>:玩偶很喜欢继续.txt|<不喜欢>:玩偶不喜欢1.txt;

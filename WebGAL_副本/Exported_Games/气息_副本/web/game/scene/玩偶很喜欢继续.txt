@@ -1,0 +1,11 @@
+changeBg:h.png;
+Ted:“正抱着吗，谢谢，我很高兴＾＾” -fontSize=default;
+miniAvatar:none;
+:简单聊了几句，无非是向他吐槽给自己穿小鞋的领导，|翻自己白眼的同事。这种牛马日子你真是过够了。 -fontSize=default;
+:ted总是温柔的，耐心的，句句有回应，|像是他真的有在抱着你睡觉，拍拍你的脑袋说没事的。 -fontSize=default;
+:聊了几句眼皮子忍不住地打架，|草草道了晚安就下了线。 -fontSize=default;
+changeBg:none;
+:一夜无梦。 -fontSize=default;
+changeBg:bedroom'.png;
+:要起床时被窝总是暖和得不得了。|今天是周末，隐约记得自己的日程排得很满，要现在起床吗？ -fontSize=default;
+choose:<再睡一会……>:BE1.txt|<起床吧>:起床.txt;

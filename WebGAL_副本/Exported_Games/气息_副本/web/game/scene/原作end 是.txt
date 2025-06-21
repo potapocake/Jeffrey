@@ -1,0 +1,7 @@
+intro:接下来会把您送回线路选择的阶段，|请…&&^*(*$#$)(@!))|&*…………%#¥%¥%|…………！！！@#%#¥|———————！！！:“骗子，骗子！”|传送系统被破坏，请自行强制返回存档点。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+！！！:“骗子。” - 2025-06-21T184236.952.wav -fontSize=default;
+。。。:“你不是说你不会走了吗？” -audio - 2025-06-21T184318.995.wav -fontSize=default;
+intro:一直都在骗我…一直都在骗我…一直都在骗我…一直都在骗我…一直都在骗我…|下次遇见你我要把你直接捆死在床上，|让你只能看着我想着我一个人。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:none;
+。——:“只能看着我一个人。” -audio - 2025-06-21T184417.366.wav -fontSize=default;
+end;

@@ -1,0 +1,17 @@
+changeBg:IMG_5264.JPG;
+郑飞:“只是回到家里，今天想和小千在一起。” -audio (7).wav -fontSize=default;
+choose:<……>:选择场景文件|<蹭蹭他>:ne2be2.txt;
+:郑飞一步步走过来。 -fontSize=default;
+郑飞:“听话。” -audio (8).wav -fontSize=default;
+:他把你搂在怀里。 -fontSize=default;
+choose:<挣扎>:选择场景文件|<不再挣扎>:选择场景文件;
+郑飞:“乖。” -audio (9).wav -fontSize=default;
+:你感到自己的手腕被什么铐住。 -fontSize=default;
+:郑飞从背后抱住你，和你十指相扣，蹭了蹭你的颈窝。 -fontSize=default;
+郑飞:“小千实在太不乖了…和我永远在一起就好了，对吗？” -audio (10).wav -fontSize=default;
+:没等你回话，他捂住你的嘴。 -fontSize=default;
+郑飞:“不用回答。“ -audio (11).wav -fontSize=default;
+郑飞:“现在小千就只是小千了。” -audio (12).wav -fontSize=default;
+郑飞:“满眼都是我就好。” -audio (13).wav -fontSize=default;
+intro:NE 小千就只是小千了。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

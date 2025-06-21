@@ -1,0 +1,4 @@
+changeBg:bathroom.jpg;
+:公寓很潮湿，可能是因为老化了，|这几周每次洗完澡湿漉漉的水汽会一直到下次洗澡都还没完全消散， -fontSize=default;
+:你也试着买过除湿器，但没什么用。 -fontSize=default;
+callScene:检查.txt

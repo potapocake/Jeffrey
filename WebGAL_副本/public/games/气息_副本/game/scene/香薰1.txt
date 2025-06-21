@@ -1,0 +1,4 @@
+changeBg:j.png;
+郑飞:“那我们的品味很相似呢。” -ElevenLabs_2025-01-24T23_52_44_郑飞_ivc_s89_sb100_se20_b_m2.mp3 -fontSize=default;
+:他笑。 -fontSize=default;
+changeScene:香薰继续.txt

@@ -1,0 +1,6 @@
+changeBg:i.png;
+:郑飞的脸上似乎闪过了一丝狠戾，但快得让你几乎感觉是错觉。 -fontSize=default;
+郑飞:“可能是因为我掺了点同系列的薄荷味，会提神一点。” -audio (2).wav -fontSize=default;
+changeBg:j.png;
+:他笑。 -fontSize=default;
+changeScene:香薰继续.txt

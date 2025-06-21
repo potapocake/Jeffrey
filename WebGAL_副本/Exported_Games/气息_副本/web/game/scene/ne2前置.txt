@@ -1,0 +1,8 @@
+changeBg:IMG_5264.JPG;
+郑飞:“不可以，小千。” -audio (38).wav -fontSize=default;
+:他还是这样叫着一个你不知道是谁的名字。 -fontSize=default;
+郑飞:“外面很危险，我身边才是最安全的。” -audio (39).wav -fontSize=default;
+郑飞:“我可以养你，你要什么我都可以给你。” -audio (40).wav -fontSize=default;
+郑飞:“留下来，好吗？” -audio (41).wav -fontSize=default;
+choose:<嗯>:选择场景文件|<不>:BE2不是小千.txt;
+intro:NE2 笼中鸟 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;

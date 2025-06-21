@@ -1,0 +1,4 @@
+bgm:nerver.mp3 -volume=50;
+changeBg:i.png;
+:郑飞的嘴角似乎下降了两个像素点，你真的有安排吗？ -fontSize=default;
+choose:<不过我可以为了你推掉>:答应午餐.txt|<真的有事，抱歉>:拒绝午餐2.txt;

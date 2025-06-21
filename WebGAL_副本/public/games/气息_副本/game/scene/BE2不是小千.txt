@@ -1,0 +1,9 @@
+changeBg:n.png;
+:郑飞眯了眯眼睛，似乎是很震惊。 -fontSize=default;
+郑飞:“…… {full} “ -fontSize=default;
+郑飞:“嗯…好吧，你不是小千。” -audio (6).wav -fontSize=default;
+:郑飞的手垂下来，右手有什么东西闪了你一下。 -fontSize=default;
+:是刀。 -fontSize=default;
+intro:BE2 不是小千 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:请多惯着狗|（惯着吧）|（还能离咋地） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

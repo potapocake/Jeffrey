@@ -1,0 +1,2 @@
+changeBg:bedroom'.png;
+choose:<检查卫生间>:检查卫生间.txt|<检查衣柜>:检查衣柜.txt|<检查角落>:检查角落.txt|<检查完了>:检查继续.txt;

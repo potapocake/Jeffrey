@@ -1,0 +1,7 @@
+changeBg:none;
+:你只是隐约记得自己好像约了谁，|要干什么来着…算了晚安… -fontSize=default;
+:迷迷糊糊之间听到开关门的声音，然后觉得很暖和……|有人在抱着你，想睁眼却没有力气。 -fontSize=default;
+:……意识模糊了。 -fontSize=default;
+intro:BE1 要记得守约哦 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:攻略男鬼请勿消极怠工|小心引火上身|没有存档要重新打咯|所以此be是提醒各位注意存档吗是的 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

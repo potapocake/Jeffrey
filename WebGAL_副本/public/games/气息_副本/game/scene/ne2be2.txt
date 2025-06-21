@@ -1,0 +1,12 @@
+changeBg:n.png;
+:郑飞有些惊愕地愣了愣，然后强装淡定地。 -fontSize=default;
+郑飞:“怎么了？” -audio (14).wav -fontSize=default;
+choose:<你怀里很暖和>:选择场景文件|<其实我很喜欢郑医生>:BE3 骗子.txt;
+:郑飞的眼神柔和下来，抱得你更紧了一点。 -fontSize=default;
+郑飞:“那我每天都抱着你睡觉好不好？” -audio (15).wav -fontSize=default;
+choose:<那我可以出去吗？>:ne2前置.txt|<我喜欢这样>:选择场景文件;
+郑飞:“小千真乖。” -audio (16).wav -fontSize=default;
+:他还是这样叫着一个你不知道是谁的名字。|他吻了吻你的侧颈。 -fontSize=default;
+郑飞:“最喜欢小千了。” -audio (17).wav -fontSize=default;
+郑飞:“永远留在我身边吧。” -audio (18).wav -fontSize=default;
+intro:NE2 笼中鸟 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;

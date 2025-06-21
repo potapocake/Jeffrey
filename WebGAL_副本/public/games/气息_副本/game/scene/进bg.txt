@@ -1,0 +1,17 @@
+changeBg:y.png;
+:郑飞的嘴角耷拉了下来。 -fontSize=default;
+郑飞:“什么都有了，名字还重要吗。“ -ElevenLabs_2025-02-05T20_05_15_郑飞_ivc_s78_sb100_se32_b_m2.mp3 -fontSize=default;
+郑飞:“永远留在无脸男身边不好吗？” -ElevenLabs_2025-02-05T20_09_03_郑飞_ivc_s86_sb100_se21_b_m2.mp3 -fontSize=default;
+choose:<名字和留下或许并不是相悖的，郑飞>:选择场景文件;
+郑飞:“可是有了名字她就走了，不是吗。” -fontSize=default;
+郑飞:“她去找白龙。没有再回来了。” -fontSize=default;
+changeBg:r.png;
+:郑飞的眼神闪了闪，看向远方，那辆列车已经开走了。 -fontSize=default;
+changeBg:mn.png;
+郑飞:“你说，那辆列车，为什么不是这样开的呢。” -fontSize=default;
+:他画了个图形，指了指你手里把玩的项链。 -fontSize=default;
+choose:<这样很好>:选择场景文件;
+changeBg:t.png;
+:郑飞满意地笑了笑。 -fontSize=default;
+郑飞:“{全名}，你真的很好很好。” -fontSize=default;
+:对话 -fontSize=default;

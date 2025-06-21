@@ -1,0 +1,10 @@
+changeBg:k.png;
+:你突然觉得郑飞的眼神有点阴测测的，盯着你发毛。 -fontSize=default;
+changeBg:afternoon.jpg;
+:你今天实在是困得很，出了兽医院就直接回家了，|怎么会这么困呢。你打开房门，直接靠在沙发上有些昏昏欲睡。 -fontSize=default;
+playEffect:open.wav;
+changeBg:f.png;
+:你听见电子锁在被输入密码的声音。|你一惊，坐了起来，正好看见郑飞进了屋。 -fontSize=default;
+choose:<你是怎么？！>:选择场景文件;
+郑飞:“小千说得倒也没错，休息就是头等大事。” -audio (5).wav -fontSize=default;
+choose:<我不是小千>:BE2不是小千.txt|<……你什么意思？>:NE”千“与 千寻.txt;
