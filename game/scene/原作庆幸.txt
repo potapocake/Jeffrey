@@ -68,7 +68,7 @@ bgm:lofi-study-calm-peaceful-chill-hop-112191.mp3;
 :他像是听到什么满意的回答，捏了捏你的后颈，像捏一只小猫。|他凑过来蹭蹭你。 -fontSize=default;
 郑飞:“给我亲一下好不好。” -audio - 2025-06-21T183815.480.wav -fontSize=default;
 :郑飞搂住你的腰吻得更深。好乖。好乖。放你换气的时候你听见他一遍遍喊。 -fontSize=default;
-郑飞:“你不会再离开我了，对不对？” -audio - 2025-06-21T183847.458.wav -fontSize=default;
+郑飞:“你不会再离开我了，对不对？” - 2025-06-21T183847.458.wav -fontSize=medium;
 choose:<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件|<点头>:选择场景文件;
 intro:郑飞安全感达到 80%，可以离开副本。|要选择离开吗？ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 bgm:Ice Demon.mp3;

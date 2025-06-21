@@ -41,7 +41,7 @@ changeBg:c4.png;
 choose:<这不怪你>:选择场景文件;
 changeBg:77.png;
 :“……”郑飞盯着你看。 -fontSize=default;
-郑飞:“你太善良了，{little}” -audio (54).wav -fontSize=default;
+郑飞:“你太善良了，{little}。” -audio (54).wav -fontSize=default;
 choose:<我们这是要去哪里？>:选择场景文件;
 郑飞:“去一个你会喜欢的地方。” -audio (60).wav -fontSize=default;
 changeBg:c4.png;
