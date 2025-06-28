@@ -1,4 +1,4 @@
-changeBg:d2025-03-26 00.15.31.png;
+changeBg:d2025-03-26 00.15.31.png -next;
 :你给他看绳子在手腕上磨的红痕，他愣了愣，|手抚上你的脸有些探究地看你，你感觉到他的指尖在抖。 -fontSize=default;
 郑飞:“等我。” -audio (61).wav -fontSize=default;
 :他似乎去拿了什么，回来时带着一条皮质的束缚带。这个代替了粗糙的麻绳，|你觉得舒服了不少，但眼前这家伙一定夹带私货了不少奇怪的xp。 -fontSize=default;

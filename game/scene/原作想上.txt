@@ -1,13 +1,13 @@
-changeBg:55.png;
+changeBg:55.png -next;
 getUserInput:name -title=既然要撒娇，给他取个小名吧 -buttonText=就这样吧;
-bgm:lovely.mp3;
+bgm:lovely.mp3 -volume= 30;
 :你凑过去。郑飞明显地愣了愣，然后耳朵眨眼间变成了红色。 -fontSize=default;
 郑飞:“你答应了？”|他声音有些抖抖的。 -audio (67).wav -fontSize=default;
 郑飞:“你知道你刚刚做了什么吗？”|他狠拽了拽你。 -audio (68).wav -fontSize=default;
 郑飞:“再逃开我会疯掉的。” -audio (69).wav -fontSize=default;
 choose:<{name}，可以帮我解开吗>:选择场景文件;
 :好近，好近，所以你蹭了蹭他。|郑飞又愣住了，就像拍拍主机就会卡一下的电脑。 -fontSize=default;
-changeBg:bedroom'.png;
+changeBg:bedroom'.png -next;
 :他没有帮你解开束缚，只是扶你起来。他拽着你去了一个房间，和你的家里一模一样。 -fontSize=default;
 郑飞:“{little}，以后和我生活在这里，可以吗。” -audio (70).wav -fontSize=default;
 :不等你答应，他跑出去端了一盘{food}回来。 -fontSize=default;

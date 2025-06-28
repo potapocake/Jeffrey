@@ -7,7 +7,7 @@ changeBg:a.png;
 :你看见郑飞的时候他正听着同事说话，|手上拿着本文件翻阅着。 -fontSize=default;
 changeBg:b.png;
 :似乎感应到什么，他抬头看见你，竟直接放下文件来了。 -fontSize=default;
-郑飞:“可以随便坐，先稍等，还有件事情需要处理。” -audio.wav -fontSize=default;
+郑飞:“可以随便坐，先稍等，还有件事情需要处理。” -audio.wav -fontSize=default -right;
 :他小声说着，对着你轻轻笑一下。 -fontSize=default;
 changeBg:d.png;
 :郑飞给你的感觉和ted很像，温柔，冷静，永远摆出一副倾听的样子。 -fontSize=default;

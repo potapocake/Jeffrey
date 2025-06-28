@@ -1,4 +1,4 @@
-bgm:realx.mp3;
+bgm:realx.mp3 -volume=30;
 changeBg:ab.png;
 :郑飞选了一个漂亮的法式餐厅，大厅里暗得像是晚上。他特地换了一套西服，|你笑他怎么这么正式。他只是扯了扯嘴角说点菜吧。 -fontSize=default;
 :你不太爱吃法餐。法餐太过正式，味道不怎么好，还贵。 -fontSize=default;
@@ -37,7 +37,7 @@ changeBg:u.png;
 choose:<这太贵重了……>:选择场景文件|<好漂亮！谢谢你。>:选择场景文件|<……>（觉得郑飞有些不对劲）:选择场景文件;
 miniAvatar:none;
 :郑飞看着你笑，过了一会，|你看见郑飞叫来waiter对他说了些什么。 -fontSize=default;
-bgm:forever.mp3 -volume=50;
+bgm:piano.mp3 -volume=30;
 :郑飞看了看你，没说什么。 -fontSize=default;
 changeBg:s.png;
 :他看向窗外。顺着他的方向看去，有一辆列车正在驶过。|天还没完全变暗，但列车的灯已经开了，在薄薄的雾里显得有些不太真实。 -fontSize=default;
