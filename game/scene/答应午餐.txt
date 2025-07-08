@@ -54,3 +54,5 @@ changeBg:r.png;
 郑飞:“一直这样，永远地陪着她。” -audio (32).wav -fontSize=default;
 郑飞:“这样其实很好，对吗？” -audio (33).wav -fontSize=default -left;
 choose:<？？？？？？？？？？>:选择场景文件|<无脸男只是寂寞，况且他还会吃人>:进原作ne.txt|<？？？？？？？？？？>:选择场景文件;
+choose:<无脸男只是寂寞，况且他还会吃人>:进原作ne.txt|<？？？？？？？？？？>:选择场景文件;
+choose:<无脸男只是寂寞，况且他还会吃人>:进原作ne.txt;
