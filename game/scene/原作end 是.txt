@@ -20,4 +20,4 @@ changeBg:r.png -next;
 :他自顾自地说着，没看向你。|你却还没反应过来你又回到了这样的时刻，有些坐立不安。 -fontSize=default;
 changeBg:o.png;
 郑飞:“怎么了？{little}。” -audio(118).wav -fontSize=default;
-choose:<我更想那辆列车有他的目的地>:4i1.txt|<无脸男只是寂寞，况且他还会吃人>:原作 2 循环.txt|<这样很好>:bg1.txt;
+choose:<我更想那辆列车有他的目的地>:4i.txt|<无脸男只是寂寞，况且他还会吃人>:原作 2 循环.txt|<这样很好>:bg.txt;
