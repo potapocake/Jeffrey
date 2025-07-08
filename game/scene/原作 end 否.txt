@@ -1,3 +1,4 @@
+changeBg: -next;
 郑？？？？&……*（&:“你要跑吗？” -audio(109).wav -fontSize=default;
 intro:……被发现了，为您的|为您的安全着想我们接下来会进行强行传送。|请…&&^*(*$#$)(@!))|——&&T*&（*&%（&……|…………！！！！！|传送系统被破坏，请自行强制返回存档点。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 ！！！:“骗子。” -audio(105).wav -fontSize=default -id;

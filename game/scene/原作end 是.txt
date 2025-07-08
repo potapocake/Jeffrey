@@ -1,3 +1,4 @@
+changeBg: -next;
 intro:接下来会把您送回线路选择的阶段，|请…&&^*(*$#$)(@!))|&*…………%#¥%¥%|…………！！！@#%#¥|———————！！！:“骗子，骗子！”|传送系统被破坏，请自行强制返回存档点。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 ！！！:“骗子。” -audio(105).wav -fontSize=default;
 。。。:“你不是说你不会走了吗？” -audio(106).wav -fontSize=default;
