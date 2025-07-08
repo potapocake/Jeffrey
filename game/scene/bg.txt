@@ -1,0 +1,4 @@
+changeBg:ef.png -next;
+:郑飞满意地笑了笑。 -fontSize=default;
+郑飞:“{little}，你真的很好很好。” -audio129.wav -fontSize=default;
+changeScene:主线.txt

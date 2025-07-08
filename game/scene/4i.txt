@@ -1,0 +1,5 @@
+choose:<我的意思是他们一起下车>:选择场景文件|<走向共同生活的地方>:选择场景文件;
+changeBg:x.png -next;
+:郑飞愣了愣，眼睛瞪大了点。 -fontSize=default;
+郑飞:“这样好像也不错。” -audio130.wav -fontSize=default;
+changeScene:主线.txt

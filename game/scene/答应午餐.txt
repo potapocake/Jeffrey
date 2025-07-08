@@ -53,4 +53,4 @@ changeBg:r.png;
 郑飞:“小千要什么，他就给什么。” -audio (31).wav -fontSize=default;
 郑飞:“一直这样，永远地陪着她。” -audio (32).wav -fontSize=default;
 郑飞:“这样其实很好，对吗？” -audio (33).wav -fontSize=default -left;
-choose:<但他并不记得小千的名字>（未建设）:进bg.txt|<我更想那辆列车有目的地>（未建设）:进4i.txt|<无脸男只是寂寞，况且他还会吃人>（仅开放）:进原作ne.txt|此处慎选，至少存档！！！:选择场景文件;
+choose:<？？？？？？？？？？>:选择场景文件|<无脸男只是寂寞，况且他还会吃人>:进原作ne.txt|<？？？？？？？？？？>:选择场景文件;

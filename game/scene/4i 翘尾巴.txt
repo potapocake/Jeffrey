@@ -17,4 +17,4 @@ changeBg: -next;
 :………… -fontSize=default;
 ？？？:“今天累了吧？” -audio(116).wav -fontSize=default;
 ？？？:“{little}，睡吧。” -audio（117）.wav -fontSize=default;
-角色名，留空以继承上句:对话;
+intro:更新到此为止咯。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
